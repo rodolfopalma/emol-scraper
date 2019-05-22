@@ -1,3 +1,5 @@
+*.jl
+
 #### joe made this: http://goel.io/joe
 
 #### python ####
@@ -133,7 +135,8 @@ dmypy.json
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
