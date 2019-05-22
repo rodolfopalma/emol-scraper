@@ -14,6 +14,8 @@ BOT_NAME = 'emol'
 SPIDER_MODULES = ['emol.spiders']
 NEWSPIDER_MODULE = 'emol.spiders'
 
+FEED_EXPORT_ENCODING = 'utf-8'
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'emol (+http://www.yourdomain.com)'
